@@ -20,5 +20,10 @@ google-auth-oauthlib==1.2.1
 thefuzz==0.22.1
 python-Levenshtein==0.26.1
 
+# Web App (Streamlit)
+streamlit==1.32.0
+plotly==5.18.0
+pandas==2.1.4
+
 # Optional: for better performance
 httpx==0.28.1
