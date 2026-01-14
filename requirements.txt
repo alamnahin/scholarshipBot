@@ -1,0 +1,24 @@
+# Core dependencies for Zero-Cost Scholarship Hunter Bot
+
+# Search (Google Custom Search API)
+google-api-python-client==2.188.0
+
+# AI/LLM
+google-generativeai==0.8.3
+
+# Web scraping
+beautifulsoup4==4.12.3
+requests==2.32.3
+lxml==5.3.0
+
+# Database (Google Sheets)
+gspread==6.1.4
+google-auth==2.36.0
+google-auth-oauthlib==1.2.1
+
+# Fuzzy string matching for deduplication
+thefuzz==0.22.1
+python-Levenshtein==0.26.1
+
+# Optional: for better performance
+httpx==0.28.1
